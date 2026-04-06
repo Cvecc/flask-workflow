@@ -1,1 +1,1 @@
-Projeto para atividade do exercício 2.
+Projeto para atividade da aula 2.
