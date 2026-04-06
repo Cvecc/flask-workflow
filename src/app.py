@@ -26,5 +26,9 @@ def contato():
 def cadastro_livro():
     return "Formulário de cadastro de livros"
 
+@app.route("/categorias")
+def categorias():
+    return "Categorias de Livros"
+
 if __name__ == "__main__":
     app.run(debug=True)
